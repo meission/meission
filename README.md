@@ -2,6 +2,8 @@
 
 ![views since 2024/06/03](https://visitor-badge-deno.deno.dev/meission.meission.svg)
 
+![](https://komarev.com/ghpvc/?username=meission) 
+
 <!--
 **meission/meission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
